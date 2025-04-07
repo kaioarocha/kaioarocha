@@ -8,7 +8,7 @@ Neste repositório irão encontrar exemplos de :
 - Modelagem relacional e dimensional;
 - Padrões de documentação visando apresentação do projeto e governança de dados;
 - Dashboards;
-- Scripts SQL e Python para manipulação de dados
+- Scripts SQL e Python para definição (DDL) e manipulação (DML) de dados
 
 ## Skills
 
