@@ -2,10 +2,11 @@
 
 ## Sobre Mim
 
-Formado em Sistemas de Informação e Especialização em BI. Atuo na área de dados desde 2012. Experiência em administração, integração, análise e governança de dados. Meu objetivo é compartilhar conhecimento de todo o ciclo de um projeto, desde a documentação até a entrega do produto final. 
+Formado em Sistemas de Informação e Especialização em BI. Atuo na área de dados desde 2012. Experiência em administração, integração, análise e governança de dados. Meu objetivo é demonstrar exemplos de todo o ciclo de um projeto, desde a documentação até a entrega do produto final. 
 
 Neste repositório irão encontrar exemplos de :
 - Modelagem relacional e dimensional;
+- Integração e orquestração de dados;
 - Padrões de documentação visando apresentação do projeto e governança de dados;
 - Dashboards;
 - Scripts SQL e Python para definição (DDL) e manipulação (DML) de dados
