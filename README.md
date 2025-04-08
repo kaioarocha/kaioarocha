@@ -16,7 +16,7 @@ Neste repositório irão encontrar exemplos de :
 Oracle | SQL Server | MySQL | SQL | Pentaho Data Integration (PDI) | Integration Services (SSIS) | Python | MicroStrategy | Power BI | Azure Data Factory | Azure | Databricks | Git | Scrum | Kanban | Modelagem relacional | Data Warehouse (DW) | Data Lake | Data Lakehouse | Governança de dados | LGPD
 
 ## Vagas de interesse
-Analista de dados, Administrador de dados, Analista de BI, Engenheiro de Dados, Analytics Engineer. 
+Analista de dados, Analista de BI, Engenheiro de Dados, Analytics Engineer. 
 
 ## Como me encontrar
-LinkedIn: [https://linkedin.com/in/kaioaugustorocha]
+LinkedIn: https://linkedin.com/in/kaioaugustorocha
