@@ -6,7 +6,7 @@ Formado em Sistemas de Informação e Especialização em BI e Analytics. Atuo n
 
 Neste repositório irão encontrar exemplos de :
 - Modelagem relacional e dimensional;
-- Integração e orquestração de dados;
+- Integração e orquestração (ETL e ELT)
 - Padrões de documentação visando apresentação do projeto e governança de dados;
 - Dashboards;
 - Scripts SQL e Python para definição (DDL) e manipulação (DML) de dados
