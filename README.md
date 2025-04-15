@@ -20,3 +20,4 @@ Analista de dados, Analista de BI, Engenheiro de Dados, Analytics Engineer.
 
 ## Como me encontrar
 LinkedIn: https://linkedin.com/in/kaioaugustorocha
+E-mail: kaio.a.rocha@gmail.com
